@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mobile-unpaid-guide-15.pages.dev/sitemap.xml
