@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mobile-limit-guide-11.pages.dev/sitemap.xml
