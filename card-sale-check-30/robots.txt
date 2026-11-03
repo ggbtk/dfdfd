@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://card-sale-check-guide-30.pages.dev/sitemap.xml
