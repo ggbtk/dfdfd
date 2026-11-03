@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skt-micropayment-guide-3.pages.dev/sitemap.xml
