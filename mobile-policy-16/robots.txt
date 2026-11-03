@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mobile-policy-guide-16.pages.dev/sitemap.xml
