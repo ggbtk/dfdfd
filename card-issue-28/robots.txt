@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://card-issue-guide-28.pages.dev/sitemap.xml
