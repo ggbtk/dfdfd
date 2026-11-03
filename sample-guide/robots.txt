@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sample-guide-demo.pages.dev/sitemap.xml
