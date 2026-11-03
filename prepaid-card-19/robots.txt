@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://prepaid-card-guide-19.pages.dev/sitemap.xml
