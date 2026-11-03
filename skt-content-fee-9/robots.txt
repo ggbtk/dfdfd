@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skt-content-fee-guide-9.pages.dev/sitemap.xml
