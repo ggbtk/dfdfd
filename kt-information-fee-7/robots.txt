@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kt-information-fee-guide-7.pages.dev/sitemap.xml
