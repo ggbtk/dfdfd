@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://card-conversion-guide-26.pages.dev/sitemap.xml
