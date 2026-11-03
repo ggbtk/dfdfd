@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://card-charge-guide-24.pages.dev/sitemap.xml
