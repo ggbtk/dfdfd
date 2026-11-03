@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lgu-content-fee-guide-11.pages.dev/sitemap.xml
