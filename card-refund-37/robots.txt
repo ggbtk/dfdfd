@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://card-refund-guide-37.pages.dev/sitemap.xml
